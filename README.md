@@ -16,7 +16,7 @@ Clone this repository and install required packages:
 ```bash
 git clone https://github.com/yourusername/QR-BMA.git
 cd QR-BMA
-pip install -r requirements.txt
+pip install -r requirements.txt```
 
 ## License
 MIT License.
