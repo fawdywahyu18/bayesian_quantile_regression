@@ -14,8 +14,8 @@ Based on Korobilis (2017), "Quantile regression forecasts of inflation under mod
 Clone this repository and install required packages:
 
 ```bash
-git clone https://github.com/yourusername/QR-BMA.git
-cd QR-BMA
+git clone https://github.com/fawdywahyu18/qrbma.git
+cd qrbma
 pip install -r requirements.txt
 
 
